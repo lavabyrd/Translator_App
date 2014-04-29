@@ -1,0 +1,7 @@
+This is a personal application designed for use to translate a source file. It will be written in Python. 
+
+29/04/2014 - 
+Script1.py gives the option to select a file name to import and the export file name. Delimiter is set to comma as standard but can be changed. However i'm unable to get the outfile file delimiter to be different from that of the input.
+
+thoughts on next:
+	ability to choose input file location and output file location?
