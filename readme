@@ -5,3 +5,6 @@ Script1.py gives the option to select a file name to import and the export file 
 
 thoughts on next:
 	ability to choose input file location and output file location?
+
+12/06/2014 - 
+turns out adding a file location is as easy by simply using the full file path, just making sure to use the escape chars for the backslashes
